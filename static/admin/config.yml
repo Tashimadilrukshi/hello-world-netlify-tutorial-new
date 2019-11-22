@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Tashimadilrukshi/hello-world-netlify-tutorial-new
 
 media_folder: static/assets
 public_folder: assets
